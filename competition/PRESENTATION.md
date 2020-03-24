@@ -24,4 +24,4 @@ League of Robots, realiza organiza esta competição com o foco de desenvolver o
 [Sóstenes Gonçalves](https://github.com/sostenes198)  
 [Tuêre Pinto](https://github.com/tuerepinto)
 
-##### [Topo](PRESENTATION.md#🤖-league-of-robots-🤖---material-para-a-competição) | [Página principal](../README.md)
+##### [Topo](PRESENTATION.md#-league-of-robots----material-para-a-competição) | [Página principal](../README.md)
