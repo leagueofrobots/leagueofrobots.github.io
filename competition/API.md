@@ -21,7 +21,7 @@
 1. [Robocode .NET Control API](https://robocode.sourceforge.io/docs/robocode.dotnet.control/Index.html)
 
 #### 1. Movimentação - Robot
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 |Comando|Parâmetro|Descrição|
 |---|--- |--- |
@@ -35,7 +35,7 @@
 |turnRadarLeft( double )|o ângulo em graus que o radar deverá girar|Gira o radar para a esquerda.|
 
 #### 2. Movimentação - AdvancedRobot
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 Os comandos da classe AdvancedRobot que começam com "set" eles funcionam como os herdados da classe Robot. A diferença é que enquanto o método está sendo executado ele continua executando as linhas de comando abaixo. Com isso é possível misturar movimentos. Por exemplo, se tiver `turnRight(90);` o robô irá andar para frente e depois que tiver terminado de percorrer a distância 100, ele girará 90º. Mas se tiver `setTurnRight(90);` o robô andará para frente e girará 90º ao mesmo tempo, fazendo uma curva.
 
@@ -52,7 +52,7 @@ Os comandos da classe AdvancedRobot que começam com "set" eles funcionam como o
 
 
 #### 3. Movimentação - AdvancedRadiansRobot
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 Esses métodos "Radians" são usados quando vai se trabalhar com PI, seno, cosseno, tangente.  
 Os métodos que começam com "set" são como aqueles visto acima, que continuam lendo as linhas de comando abaixo, misturando movimentos.
@@ -73,7 +73,7 @@ Os métodos que começam com "set" são como aqueles visto acima, que continuam 
 |setTurnRadarLeftRadians( double )|o ângulo em radianos|Herdado do método turnRadarLeftRadians.|
 
 #### 4. Tiro - Robot
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 |Comando|Parâmetro|Descrição|
 |--- |--- |--- |
@@ -82,7 +82,7 @@ Os métodos que começam com "set" são como aqueles visto acima, que continuam 
 
 
 #### 5. Tiro - AdvancedRobot
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 |Comandos|Parâmetro|Descrição|
 |--- |--- |--- |
@@ -91,7 +91,7 @@ Os métodos que começam com "set" são como aqueles visto acima, que continuam 
 
 
 #### 6. Envia Dados Para O Robô
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 |Comando|Parâmetro|Descrição|
 |--- |--- |--- |
@@ -101,7 +101,7 @@ Os métodos que começam com "set" são como aqueles visto acima, que continuam 
 
 
 #### 7. Retorna Dados do Rôbo
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 |Comando|Tipo do Retorno|Descrição do Retorno|
 |--- |--- |--- |
@@ -120,7 +120,7 @@ Os métodos que começam com "set" são como aqueles visto acima, que continuam 
 
 
 #### 8. Retorna Dados do Robô - AdvancedRadiansRobot
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 |Comandos|Tipo do Retorno|Retorno|
 |--- |--- |--- |
@@ -133,7 +133,7 @@ Os métodos que começam com "set" são como aqueles visto acima, que continuam 
 
 
 #### 9. Retorna Dados da Batalha
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 |Comandos|Tipo do Retorno|Retorno|
 |--- |--- |--- |
@@ -146,7 +146,7 @@ Os métodos que começam com "set" são como aqueles visto acima, que continuam 
 
 
 #### 10. Outros
-[Topo](API.md#material-para-a-competição)
+[Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição)
 
 |Comando|Parâmetro|Descrição|
 |--- |--- |--- |
@@ -161,4 +161,4 @@ Os métodos que começam com "set" são como aqueles visto acima, que continuam 
 |finalize()|nenhum parâmetro||
 
 
-##### [Topo](API.md#material-para-a-competição) | [Página principal](../README.md)
+##### [Topo](API.md#🤖-league-of-robots-🤖---material-para-a-competição) | [Página principal](../README.md)

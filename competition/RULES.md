@@ -14,4 +14,4 @@
 1. Proibido o plagio de código, o código será verificado e pesquisado, sob pena de desclassificação.
 1. Não é permitido qualquer tipo de interferência no meio do campeonato, caso aconteça, o time participante será punido com a desclassificação.
 
-##### [Topo](RULES.md#material-para-a-competição) | [Página principal](../README.md)
+##### [Topo](RULES.md#🤖-league-of-robots-🤖---material-para-a-competição) | [Página principal](../README.md)
